@@ -42,8 +42,7 @@ sudo systemctl enable zabbix-server apache2
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![скрин входа в админку заббикса](https://github.com/Toazter426/zabbix-1/blob/main/img/zabbix-adminka.PNG)
 
 
 ---
@@ -67,8 +66,9 @@ sudo nano /etc/zabbix/zabbix_agentd.conf
 # Adding adress for zabbix-server (192.168.1.0/24)
 
 ```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![доступные агенты](https://github.com/Toazter426/zabbix-1/blob/main/img/zabbix-hosts.PNG)
+![Логи агета](https://github.com/Toazter426/zabbix-1/blob/main/img/zabbix-agent-log.PNG)
+![Latest Data-Server](https://github.com/Toazter426/zabbix-1/blob/main/img/zabbix-agent1.PNG)
+![Latest Data-Server](https://github.com/Toazter426/zabbix-1/blob/main/img/zabbix-agent2.PNG)
 
 
